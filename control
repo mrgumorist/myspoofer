@@ -1,0 +1,9 @@
+Package: com.smurf.mgspoof
+Name: MGSpoof
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tffwefe
+Maintainer: Smurf
+Author: Smurf
+Section: Tweaks
